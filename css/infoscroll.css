@@ -1,0 +1,125 @@
+.infoscroll__title {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;
+    text-align: center;
+    color: #212B31;
+}
+
+.infroscroll__suptitle {
+    font-family: 'Inter';
+    font-weight: 400;
+    line-height: 32px;
+    font-size: 20px;
+    text-align: center;
+    color: #212B31;
+    margin-bottom: 55px;
+}
+
+.achievements__title {
+    font-family: 'Inter';
+    font-weight: 400;
+    line-height: 24px;
+    font-size: 18px;
+    line-height: 24px;
+    color: #212B31;
+}
+.achievements__description {
+    font-family: 'Inter';
+    font-weight: 400;
+    line-height: 24px;
+    font-size: 16px;
+    color: #72787D;
+    width: 360px;
+}
+
+.achievements__img {
+    margin-right: 16px;
+    padding: 15px;
+}
+
+.achievements {
+    position: absolute;
+    left: 192px;
+    margin-top: 55px;
+}
+
+.infoscroll__box {
+    display: flex;
+    align-items: flex-start;
+    margin-left: 192px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.swiper__title {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 48px;
+    color: #212B31;
+    width: 435px;
+    position: absolute;
+    left: 89px;
+    top: 40px;
+}
+
+.img__title {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #212B31;
+    position: absolute;
+    top: 410px;
+    left: 150px;
+    bottom: 117px;
+}
+
+.swiper__info {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #72787D;
+    width: 331px;
+    position: absolute;
+    top: 430px;
+    left: 150px;
+
+}
+
+.swiper__img {
+    position: absolute;
+    top: 424px;
+    left: 88px;
+
+}
+
+
+.swiper {
+    width: 614px;
+    height: 516px;
+    position: absolute;
+    left: 728px;
+    right: 98px;
+    bottom: 150px;
+}
+
+.infoscroll {
+    margin-top: 250px;
+}
+
+.commas {
+    position: absolute;
+    top: 46px;
+    left: 42px;
+    bottom: 392px;
+    right: 470px;
+}
+
+.imginfo {
+    margin-top: 28px;
+}

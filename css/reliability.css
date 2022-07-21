@@ -1,0 +1,106 @@
+.reliability__title {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;
+    text-align: center;
+    color: #212B31;
+}
+
+.reliability__description {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    width: 857px;
+    line-height: 32px;
+    color: #72787D;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.reliability__img {
+    position: absolute;
+    bottom: 150px;
+    left: 615px;  
+
+
+}
+
+.reliability__content {
+    position: relative;
+}
+
+.pollution__title {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #212B31;
+
+}
+
+.pollution__description {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #72787D;
+}
+
+.reliability__box {
+    text-align: center;
+    width: 333px;
+}
+
+.pollution {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 33px;
+    margin-top: 50px;
+}
+
+.design__title {
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #212B31;
+    position: absolute;
+    left: 104px;
+    top: 27px;
+}
+
+.design__description {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: #212B31;
+    position: absolute;
+    left: 320px;
+    top: 27px;
+}
+
+.design__img {
+    position: absolute;
+    top: 37px;
+    left: 42px;
+
+}
+
+.more__btn {
+    position: absolute;
+    left: 867px;
+    top: 40px;
+}
+
+.design__box {
+    position: relative;
+    margin-top: 62px;
+}
+
+.reliability {
+    margin-top: 124px;
+}

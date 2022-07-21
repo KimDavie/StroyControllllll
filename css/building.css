@@ -1,0 +1,25 @@
+.building__title{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 32px;
+    text-align: center;
+    color: #212B31;
+    margin-top: 16px;
+
+}
+.building__description{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #72787D;
+    width: 1015px;
+    margin-top: 16px;
+
+}
+.building__icon{
+    margin-top: 40px;
+}
+.building{
+    margin-top: 140px;
+}

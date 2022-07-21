@@ -1,0 +1,21 @@
+.all__posters{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.poster__1{
+    margin-left: 39px;
+}
+
+.lastposter{
+    display:flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 39px;
+}
+.posters{
+    margin-top: 128px;
+    margin-bottom: 136px;
+    
+}
